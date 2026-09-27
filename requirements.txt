@@ -1,0 +1,2 @@
+# MediCare currently uses only Python's standard library.
+# No third-party packages are required for Phase 1.
