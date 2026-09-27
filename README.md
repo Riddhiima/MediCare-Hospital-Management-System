@@ -97,9 +97,7 @@ MediCare_Hospital_Management/
 ├── tests/
 │   └── test_basic.py
 │
-├── diagrams/
-│
-└── data/
+├── Diagrams/
 ```
 
 ---
@@ -254,12 +252,12 @@ Additional project information and requirements are documented in:
 statement.md
 ```
 
-The project design diagrams are maintained in the `diagrams/` folder.
+The project design diagrams are maintained in the `Diagrams/` folder.
 
 The folder contains:
 
 - `MediCare ER Diagram.png` – database/ER design
-- `MediCare UML Diagram.png` – Python OOP/class design
+- `Medicare UML Diagram.png` – Python OOP/class design
 - `Data Flow Diagram.png` – system architecture and data flow
 
 
