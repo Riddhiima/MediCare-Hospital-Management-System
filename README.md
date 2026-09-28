@@ -260,7 +260,7 @@ The folder contains:
 - `Medicare UML Diagram.png` – Python OOP/class design
 - `Data Flow Diagram.png` – system architecture and data flow
 - `Use flow Diagram.png` – system users and their interactions
-- `Book Appointment.png` – appointment booking workflow
+- `Book appointment.png` – appointment booking workflow
 
 
 ---
