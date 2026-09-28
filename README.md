@@ -259,6 +259,8 @@ The folder contains:
 - `MediCare ER Diagram.png` – database/ER design
 - `Medicare UML Diagram.png` – Python OOP/class design
 - `Data Flow Diagram.png` – system architecture and data flow
+- `Use flow Diagram.png` – system users and their interactions
+- `Book Appointment.png` – appointment booking workflow
 
 
 ---
